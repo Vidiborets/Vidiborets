@@ -24,5 +24,5 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: I learn fast, responsible and ready for complex tasks.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vidiborets)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vidiborets-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vidiborets)
 
