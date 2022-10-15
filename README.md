@@ -38,6 +38,8 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### :fire: My Stats :
+<div id="header" align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vidiborets&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+</div>
 
     
