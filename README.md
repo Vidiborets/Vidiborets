@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="www.linkedin.com/in/андрей-выдиборец-a94609211">
+  <a href="www.linkedin.com/in/vidiborets">
     <img heigth="50"  width="50" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"/>
   </a>
   <a href="https://twitter.com/vidiborets">
