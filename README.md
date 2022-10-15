@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img heigth="20"  width="20" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"/>
+    <img heigth="50"  width="50" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
