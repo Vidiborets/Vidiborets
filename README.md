@@ -8,7 +8,7 @@
   <a href="https://twitter.com/vidiborets">
     <img heigth="50" margin-left=20px  width="50" src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.facebook.com/profile.php?id=100002271441915">
+    <img heigth="50"  width="50" src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Twitter Badge"/>
   </a>
 </div>
