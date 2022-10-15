@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://stackoverflow.com/feeds/user/1269990"
+          feed_list: "https://meta.stackexchange.com/feeds/user/1269990"
