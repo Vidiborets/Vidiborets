@@ -34,12 +34,12 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-</div>
+
+
+<div id="header" align="center">
 ---
 
 ### :fire: My Stats :
-<div id="header" align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vidiborets&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
-
     
