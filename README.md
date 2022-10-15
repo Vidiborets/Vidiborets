@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="LinkedIn Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
