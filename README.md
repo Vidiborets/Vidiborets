@@ -25,7 +25,7 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 - :zap: I learn fast, responsible and ready for complex tasks.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vidiborets-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vidiborets)
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
